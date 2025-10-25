@@ -1,0 +1,21 @@
+# Ignore everything by default
+*
+
+# Allow directories so negations below can match files inside
+!*/
+
+# Keep project essentials
+!.gitignore
+!README.md
+!mkv_juicer.py
+!convert_sup.py
+!LICENSE
+
+# Python cache and common noise
+__pycache__/
+*.pyc
+*.pyo
+*.log
+.DS_Store
+.venv/
+.env
