@@ -23,4 +23,5 @@ __pycache__/
 *.log
 .DS_Store
 .venv/
+.mkv_juicer-venv/
 .env
