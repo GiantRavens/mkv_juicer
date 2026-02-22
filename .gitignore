@@ -9,7 +9,12 @@
 !README.md
 !mkv_juicer.py
 !convert_sup.py
+!ffprobe_report.sh
 !LICENSE
+
+# contrib shell utilities
+!contrib/
+!contrib/*.sh
 
 # Python cache and common noise
 __pycache__/
